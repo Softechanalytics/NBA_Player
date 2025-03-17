@@ -1,5 +1,7 @@
 # NBA Analysis Dashboard
 
+
+
 This repository contains an NBA analysis dashboard built using Power BI. The interactive report (NBA.pbix) explores historical NBA data, including team performance, player statistics, and game trends, providing deep insights for analysts, fans, and researchers.
 
 ## Table of Contents
